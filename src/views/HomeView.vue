@@ -8,7 +8,7 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
 // import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
-import init from './shader12/scene';
+import init from './shader14/scene';
 export default defineComponent({
   name: 'HomeView',
   components: { 
